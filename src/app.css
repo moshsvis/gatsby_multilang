@@ -1,0 +1,8 @@
+textarea.form-control {
+    border-bottom: var(--page-link-color) 1px solid;
+}
+
+textarea.form-control:focus {
+    box-shadow: none;
+    border-bottom: var(--page-link-color) 2px solid;
+}
